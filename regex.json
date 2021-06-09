@@ -1,4 +1,0 @@
-{"Global Declarations":{"struct":"g_([A-Za-z]([A-Za-z]|[0-9])*_)s",
-  "types":"g_([A-Za-z]([A-Za-z]|[0-9])*_)t","union":"g_([A-Za-z]([A-Za-z]|[0-9])*_)u",
-  "enum":"g_([A-Za-z]([A-Za-z]|[0-9])*_)e"},
-  "Local Declarations":{"struct":"l_([A-Za-z]([A-Za-z]|[0-9])*_)s","types":"l_([A-Za-z]([A-Za-z]|[0-9])*_)t","union":"l_([A-Za-z]([A-Za-z]|[0-9])*_)u","enum":"l_([A-Za-z]([A-Za-z]|[0-9])*_)e"},"Function Declarations":{"function":"func(_[A-Za-z]([A-Za-z]|[0-9])*)"}}
