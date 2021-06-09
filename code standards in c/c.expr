@@ -1,0 +1,23 @@
+struct g_struct1_s{
+    int g_x_t;
+    int y;
+    };
+
+union g_union1_u{
+         float y;
+         long z;
+         };
+
+int main(){
+int i=0 ;
+for( i = 0; i < 10; i++){
+    printf("i = ", i);
+    }
+struct g_struct2_s{
+    int g_xhgbhjbh_t;
+    int m;
+    char v;
+    };
+enum week{Mon, Tue, Wed, Thur, Fri, Sat, Sun};
+    return 0;
+    }
