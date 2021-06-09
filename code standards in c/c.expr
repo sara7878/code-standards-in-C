@@ -1,0 +1,25 @@
+struct g_struct1_s
+{
+    int g_x_t;
+    int y;
+};
+
+union g_union1_u{
+         float y;
+         long z;
+    }u;
+
+int main(){
+int i ;
+    struct l_site_s
+    {
+        char l_name_t[] = "GeeksQuiz";
+        int l_noofpages_t = 200;
+    };
+
+    for( i = 0; i < 10; i++)
+    {
+        printf("i = %d\n", i);
+    }
+    return 0;
+}
